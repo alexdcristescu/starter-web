@@ -6,5 +6,11 @@ This is a simple website project for showing how to use GIT and Github together.
 sfgdfgdf
 
 ## Purpose
+
+ssdfsfgwerf
+
 ## Deployment
+
+qwferge
+
 ## How to Contribute
